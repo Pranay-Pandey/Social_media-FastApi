@@ -16,9 +16,6 @@ idna==3.4
 importlib-metadata==5.0.0
 importlib-resources==5.10.0
 Jinja2==3.1.2
-joint-state-publisher==1.15.1
-joint-state-publisher-gui==1.15.1
-laser_geometry==1.6.7
 Mako==1.2.3
 MarkupSafe==2.1.1
 message-filters==1.15.14
