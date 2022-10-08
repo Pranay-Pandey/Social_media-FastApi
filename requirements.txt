@@ -9,7 +9,6 @@ uvicorn==0.18.3
 uvloop==0.17.0
 watchfiles==0.17.0
 websockets==10.3
-xacro==1.14.13
 zipp==3.8.1
 alembic==1.8.1
 anyio==3.6.1
