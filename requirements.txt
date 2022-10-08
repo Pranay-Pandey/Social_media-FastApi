@@ -1,4 +1,4 @@
-actionlib
+actionlib==1.13.2
 alembic==1.8.1
 angles==1.9.13
 anyio==3.6.1
