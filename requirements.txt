@@ -28,12 +28,7 @@ pydantic==1.10.2
 python-dotenv==0.21.0
 python-jose==3.3.0
 python-multipart==0.0.5
-python-qt-binding==0.4.4
 PyYAML==6.0
-qt-dotgraph==0.4.2
-qt-gui==0.4.2
-qt-gui-cpp==0.4.2
-qt-gui-py-common==0.4.2
 requests==2.28.1
 resource_retriever==1.12.7
 rsa==4.9
